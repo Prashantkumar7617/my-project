@@ -6,7 +6,8 @@
 
 int i, j, height = 20, width = 20,x, y, fruitx, fruity, flag, gameover, score;
 
-
+  
+    
 void draw()
 {
     system("cls");
