@@ -47,8 +47,7 @@ def CheckWin():
         Game=Draw    
     else:            
         Game=Running    
-    
-print("Tic-Tac-Toe Game Designed By Sourabh Somani")    
+       
 print("Player 1 [X] --- Player 2 [O]\n")    
 print()    
 print()    
